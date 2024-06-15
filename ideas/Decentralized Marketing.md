@@ -11,6 +11,11 @@ Best marketeers get more for the campaign budget. At the end of the campaign, pr
 
 Idea can start with Web 2.0 but really thrives in 3.0. Web3 would be the future. Integrating highly with crypto social. Proving that marketing materials are made by real people.
 
+## Competitors
+
+Cookie3: https://www.cookie3.com/
+
+Worth keeping an eye on. 
 
 ## AI Gen. Thoughts
 ### Key Features and Benefits
