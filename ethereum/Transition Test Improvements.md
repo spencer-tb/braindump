@@ -13,7 +13,7 @@ class CancunToPragueAtTime15k(Cancun):
     pass
 ```
 
-This allows us to mark tests like the following,
+That allows us to mark tests like the following,
 ```python=
 @pytest.mark.valid_at_transition_to("Cancun")
 def test_beacon_root_contract_deploy(
