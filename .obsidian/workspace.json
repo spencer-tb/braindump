@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b59da088da0124db",
+        "id": "08e03cd28e665239",
         "type": "tabs",
         "children": [
           {
-            "id": "e77f1a63c70e37ea",
+            "id": "eec42de70e124e34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ideas/Improved Art Open Market.md",
+                "file": "ethereum/Daily Notes/June/18.06.24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideas/Improved Art Open Market.md",
+                "file": "ethereum/Daily Notes/June/18.06.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ideas/Improved Art Open Market.md",
+                "file": "ethereum/Daily Notes/June/18.06.24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ideas/Improved Art Open Market.md"
+                "file": "ethereum/Daily Notes/June/18.06.24.md"
               }
             }
           }
@@ -147,13 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e77f1a63c70e37ea",
+  "active": "eec42de70e124e34",
   "lastOpenFiles": [
-    "ideas/Decentralized Marketing.md",
-    "ideas/Improved Art Open Market.md",
-    "ethereum/Daily Notes/June/18.06.24.md",
-    "imagedump/Pasted image 20240618140318.png",
+    "Pasted image 20240618161941.png",
     "ethereum/EEST/Transition Test Improvements.md",
+    "ethereum/Daily Notes/June/18.06.24.md",
+    "ideas/Improved Art Open Market.md",
+    "ideas/Decentralized Marketing.md",
+    "imagedump/Pasted image 20240618140318.png",
     "imagedump/Pasted image 20240618132513.png",
     "imagedump",
     "ethereum/EEST",
