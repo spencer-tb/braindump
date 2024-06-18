@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ethereum/Daily Notes/June/18.06.24.md",
+                "file": "ideas/Improved Art Open Market.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ethereum/Daily Notes/June/18.06.24.md",
+                "file": "ideas/Improved Art Open Market.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ethereum/Daily Notes/June/18.06.24.md",
+                "file": "ideas/Improved Art Open Market.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ethereum/Daily Notes/June/18.06.24.md"
+                "file": "ideas/Improved Art Open Market.md"
               }
             }
           }
@@ -149,16 +149,17 @@
   },
   "active": "e77f1a63c70e37ea",
   "lastOpenFiles": [
+    "ideas/Decentralized Marketing.md",
+    "ideas/Improved Art Open Market.md",
+    "ethereum/Daily Notes/June/18.06.24.md",
     "imagedump/Pasted image 20240618140318.png",
     "ethereum/EEST/Transition Test Improvements.md",
-    "ethereum/Daily Notes/June/18.06.24.md",
     "imagedump/Pasted image 20240618132513.png",
     "imagedump",
     "ethereum/EEST",
     "ethereum/Daily Notes",
     "ethereum/Daily Notes/June",
     "README.md",
-    "ideas/Decentralized Marketing.md",
     "Untitled.md",
     "ideas",
     "Untitled.canvas",
