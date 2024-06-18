@@ -52,7 +52,7 @@ This would provide additional coverage during the transition, essentially for fr
 
 When testing the transition for Verkle I would ideally like to go overkill. There are so many corner cases that could crop up so why not go full throttle and generate and obscenely large amount of transition tests.
 
-There primarily 3 different ways we should test the transtion. Initially with the Verkle stride (num. key/values transitioned from MPT to VKT) set to zero.
+There primarily 3 different ways we should test the tranistion. Initially with the Verkle stride (num. key/values transitioned from MPT to VKT) set to zero.
 
 - **Pre-fork transition tests:** Here we execute all the test blocks before the transition, where the MPT is slowly filled up (during Shanghai). At the point of transition (Verkle fork), the MPT is converted to VKT.
     - Will require the fork transition time to be >32 - probably 15k, assuming no test has >1250 blocks we can generate all blocks for a test before the transition timestamp (assuming 12 seconds between each block).

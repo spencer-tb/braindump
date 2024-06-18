@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ideas/Decentralized Marketing.md",
+                "file": "ethereum/Daily Notes/June/18.06.24.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -69,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "475291ffe784af9b",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideas/Decentralized Marketing.md",
+                "file": "ethereum/Daily Notes/June/18.06.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ideas/Decentralized Marketing.md",
+                "file": "ethereum/Daily Notes/June/18.06.24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ideas/Decentralized Marketing.md"
+                "file": "ethereum/Daily Notes/June/18.06.24.md"
               }
             }
           }
@@ -148,11 +149,18 @@
   },
   "active": "e77f1a63c70e37ea",
   "lastOpenFiles": [
-    "Untitled.md",
-    "ideas/Decentralized Marketing.md",
-    "ideas",
-    "ethereum/Transition Test Improvements.md",
+    "imagedump/Pasted image 20240618140318.png",
+    "ethereum/EEST/Transition Test Improvements.md",
+    "ethereum/Daily Notes/June/18.06.24.md",
+    "imagedump/Pasted image 20240618132513.png",
+    "imagedump",
+    "ethereum/EEST",
+    "ethereum/Daily Notes",
+    "ethereum/Daily Notes/June",
     "README.md",
+    "ideas/Decentralized Marketing.md",
+    "Untitled.md",
+    "ideas",
     "Untitled.canvas",
     "2024-06-15.md",
     "ethereum",
