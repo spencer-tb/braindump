@@ -16,7 +16,7 @@ This force of AI generated content, weaponised by countries, leads those favouri
 
 ## Crypto Gaming
 
-The youth is our future. We already have many games without crypto that have in-game market places. Why do these marketplaces not adopt tokens on chain to assign them prove-able real world assets? Well we will soon. Many large game studios are looking widely towards this level of adoption.
+The youth is our future. We already have many games without crypto that have in-game market places. Why do these marketplaces not adopt tokens on chain for in game assets that can be exchanged? Well we will soon. Many large game studios are looking widely towards this level of adoption.
 
 The model for this will be quite simple. Subscription service, maybe on the token level.
 

@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,15 +148,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df2a96aa132c2647",
+  "active": "917594c515e1c024",
   "lastOpenFiles": [
-    "ethereum/notes/june/18.06.24.md",
-    "ethereum/notes/june/24.06.24.md",
     "ideas/Real World Purchases.md",
+    "ethereum/notes/june/24.06.24.md",
+    "thoughts/Deploying Crypto to the World.md",
+    "ethereum/notes/june/18.06.24.md",
     "imagedump/Pasted image 20240618161941.png",
     "ideas/Improved Art Open Market.md",
     "ideas/Decentralized Marketing.md",
-    "thoughts/Deploying Crypto to the World.md",
     "thoughts",
     "README.md",
     "imagedump/Pasted image 20240618164714.png",
