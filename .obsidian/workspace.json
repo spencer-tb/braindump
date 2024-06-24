@@ -4,34 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "a533b4e31e49194e",
+        "id": "e65b0a3715eec7fd",
         "type": "tabs",
         "children": [
           {
-            "id": "aab380a9f1e5e30c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "imagedump/Pasted image 20240618161941.png"
-              }
-            }
-          },
-          {
-            "id": "c023916c609a9a9c",
+            "id": "2a9d03fa5fa88993",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ideas/Real World Purchases.md",
+                "file": "ethereum/notes/june/24.06.24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideas/Real World Purchases.md",
+                "file": "ethereum/notes/june/24.06.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ideas/Real World Purchases.md",
+                "file": "ethereum/notes/june/24.06.24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ideas/Real World Purchases.md"
+                "file": "ethereum/notes/june/24.06.24.md"
               }
             }
           }
@@ -158,24 +147,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c023916c609a9a9c",
+  "active": "df2a96aa132c2647",
   "lastOpenFiles": [
-    "ideas/Improved Art Open Market.md",
+    "ethereum/notes/june/18.06.24.md",
+    "ethereum/notes/june/24.06.24.md",
     "ideas/Real World Purchases.md",
+    "imagedump/Pasted image 20240618161941.png",
+    "ideas/Improved Art Open Market.md",
     "ideas/Decentralized Marketing.md",
     "thoughts/Deploying Crypto to the World.md",
     "thoughts",
     "README.md",
-    "imagedump/Pasted image 20240618161941.png",
     "imagedump/Pasted image 20240618164714.png",
-    "ethereum/Daily Notes/June/18.06.24.md",
     "ethereum/EEST/Transition Test Improvements.md",
     "imagedump/Pasted image 20240618140318.png",
     "imagedump/Pasted image 20240618132513.png",
     "imagedump",
     "ethereum/EEST",
-    "ethereum/Daily Notes",
-    "ethereum/Daily Notes/June",
+    "ethereum/notes",
+    "ethereum/notes/june",
     "Untitled.md",
     "ideas",
     "Untitled.canvas",
